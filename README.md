@@ -1,3 +1,5 @@
+reproducer of https://issuetracker.google.com/issues/232839441
+
 # reproducer-androidstudio-kotlin-common-unresolved-reference
 
 * `:feature:android` module is a Kotlin Multiplatform Android Library project
