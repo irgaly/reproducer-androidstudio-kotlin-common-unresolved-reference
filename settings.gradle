@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "KotlinCommonUnresolvedReproducer"
-include ':app'
+include ':app', ':feature:android', ':feature:common'
