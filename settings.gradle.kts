@@ -6,11 +6,10 @@ pluginManagement {
     }
 }
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
         mavenCentral()
     }
 }
 rootProject.name = "KotlinCommonUnresolvedReproducer"
-include ':app', ':feature:android', ':feature:common'
+include(":feature:android", ":feature:common")
