@@ -1,3 +1,9 @@
+2022/08/27
+
+**This bug have been fixed in Android Studio Electric Eel Canary 10**
+
+---
+
 reproducer of https://issuetracker.google.com/issues/232839441
 
 # reproducer-androidstudio-kotlin-common-unresolved-reference
